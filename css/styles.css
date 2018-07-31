@@ -1,0 +1,56 @@
+body {
+	background: #ED4264;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to top, #FFEDBC, #ED4264);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to top, #FFEDBC, #ED4264); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	font-family: 'Questrial', 'Helvetica', sans-serif;
+	font-size: 18px;
+}
+
+.row {
+	margin-top: 40px;
+}
+.title {
+	margin: 40px 0 80px;
+}
+p {
+	font-size: 1.11em;
+}
+
+h1 {
+	font-family: 'Handlee', cursive;
+	font-size: 4.444em;
+	color: #eee;
+	text-shadow: 1px 1px 10px rgba(0,0,0,0.4);
+}
+
+h2 {
+	font-family: 'Handlee', cursive;
+	font-size: 2.333em;
+}
+.full-image {
+	width: 100%;
+	padding: 10px;
+	background: #eee;
+	box-shadow: 0px 10px 20px rgba(0,0,0,0.2);
+}
+
+.gallery {
+	margin: 60px 0;
+}
+
+.gallery figure {
+	margin-bottom: 20px;
+}
+
+.gallery figure figcaption {
+	padding: 10px 0;
+	text-align: center;
+}
+
+.gallery-image {
+	width: 100%;
+	padding: 10px;
+	margin-top: 0px;
+	background: #eee;
+	box-shadow: 0px 10px 20px rgba(0,0,0,0.2);
+}
